@@ -1,23 +1,74 @@
-  .heading
-  {
-    width: 100%;
-    margin: 0px;
-    box-shadow:5px 5px 5px grey;
+  .heading {
+      width: 100%;
+      margin: 0px;
+      box-shadow: 5px 5px 5px white;
   }
-  .heading_div
-  {
-    background: white ; 
-    border-radius: 20px; 
-    color: black;
-    box-shadow:5px 5px 5px grey;
+  
+  .heading_div {
+      background: white;
+      border-radius: 20px;
+      color: black;
+      box-shadow: 5px 5px 5px white;
   }
-  .heading_div2
-  {
-    font-size: 18px ;
+  
+  .heading_div2 {
+      font-size: 18px;
   }
-  .result_para_tag
-  {
-    box-shadow:5px 5px 5px grey;
-    font-size: 20px;
+  
+  .result_para_tag {
+      box-shadow: 5px 5px 5px grey;
+      font-size: 20px;
   }
- 
+  
+  body {
+      background-position: center;
+      background-size: cover;
+  }
+  
+  .copy_right_footer {
+      float: center;
+      font-size: 24px;
+      color: black;
+  }
+  
+  #mona,
+  #helmet,
+  #converse,
+  #roku,
+  #bottle,
+  #phone,
+  #waist,
+  #croc {
+      border: 15px ridge burlywood;
+      border-radius: 25px;
+      width: 300px;
+      height: 150px;
+  }
+  
+  #mona1,
+  #helmet1,
+  #converse1,
+  #roku1,
+  #bottle1,
+  #phone1,
+  #waist1,
+  #croc1 {
+      margin-left: 30px;
+  }
+  
+  #mona2,
+  #helmet2,
+  #roku2,
+  #bottle2,
+  #phone2,
+  #waist2,
+  #croc2 {
+      padding-right: 350px;
+      font-size: 15px;
+  }
+  
+  #converse2,
+  #waist2 {
+      padding-right: 500px;
+      font-size: 15px;
+  }
